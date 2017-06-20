@@ -1,0 +1,16 @@
+PODS:
+  - XJTestKit (0.1.0)
+
+DEPENDENCIES:
+  - XJTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  XJTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XJTestKit: 1da1e8c95a744c7dca622cef5a1fe641d9e7e198
+
+PODFILE CHECKSUM: aabbe1504d8d7280f00178435dbd524341c2636e
+
+COCOAPODS: 1.1.1
